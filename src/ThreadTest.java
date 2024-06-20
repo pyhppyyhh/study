@@ -5,6 +5,7 @@ public class ThreadTest {
         myThread1 thread1 = new myThread1();
         thread1.start();
 
+
     }
 }
 class myThread1 extends Thread {

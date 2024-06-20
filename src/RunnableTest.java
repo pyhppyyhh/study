@@ -5,6 +5,7 @@ public class RunnableTest {
         Thread t1 = new Thread(myThead); //쓰레드 객채 생성
         t1.start(); //쓰래드 실행
 
+
     }
 }
 
